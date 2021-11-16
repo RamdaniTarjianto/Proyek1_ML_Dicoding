@@ -3,11 +3,6 @@
 #
 #### Nama   : Ramdani Tarjianto
 #### Email  : ramdani.tarjianto83@gmail.com
-#
-#
-#
-#
-#
 
 
 # Judul
